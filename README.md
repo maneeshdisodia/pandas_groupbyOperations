@@ -1,4 +1,4 @@
 # pandas_groupby_oprations
-pandas groupby demostration
+pandas groupby demonstration
 
 reference : https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
